@@ -1,0 +1,20 @@
+.category
+{
+	margin-top: 15px;		
+	margin-left: 10%;
+	font-size: 20px;
+	border-right:2px dotted blue;
+}
+.tempelate
+{
+	border-right:2px dotted blue;
+	text-align:centre;
+}
+.productDiv
+{
+	height: 110px;
+	width: 30%;
+	padding: 2px;
+	margin: 2px;
+	background-color: blue;
+}
